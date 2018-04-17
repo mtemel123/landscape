@@ -12506,51 +12506,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-16T21:52:02.000Z
       - subcategory:
-        name: Libraries
-        items:
-          - item:
-            name: Python Lambda
-            homepage_url: 'https://aws.amazon.com/lambda/'
-            repo_url: 'https://github.com/nficano/python-lambda'
-            logo: ./hosted_logos/python-lambda.svg
-            crunchbase: 'https://www.crunchbase.com/organization/simple-contacts'
-            crunchbase_data:
-              name: Simple Contacts
-              description: Online eye exam and contact lens supplies
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.simplecontacts.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'https://twitter.com/simplecontacts'
-              linkedin: 'https://www.linkedin.com/company/simple-contacts'
-              kind: funding
-              funding: 10000000
-            github_data:
-              stars: 680
-              license: ISC
-              description: A toolkit for developing and deploying serverless Python code in AWS Lambda.
-              latest_commit_date: '2018-04-14T00:00:00.000Z'
-              latest_commit_link: /nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433
-              release_date: '2018-04-14T02:19:09Z'
-              release_link: 'https://github.com/nficano/python-lambda/releases'
-              contributors_count: 27
-              contributors_link: 'https://github.com/nficano/python-lambda/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db
-              start_date: '2016-02-26T03:21:23Z'
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: python-lambda.svg
-              hash: jfd+VvfnfacOqL6SS4VFHJQK6Mt6neQmGtUWXGDKbaI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-03-22T14:28:38.000Z
-      - subcategory:
         name: Tools
         items:
           - item:
@@ -12853,6 +12808,48 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-04-16T23:17:00.000Z
+          - item:
+            name: Python Lambda
+            homepage_url: 'https://github.com/nficano/python-lambda'
+            repo_url: 'https://github.com/nficano/python-lambda'
+            logo: ./hosted_logos/python-lambda.svg
+            crunchbase: 'https://www.crunchbase.com/organization/simple-contacts'
+            crunchbase_data:
+              name: Simple Contacts
+              description: Online eye exam and contact lens supplies
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.simplecontacts.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/simplecontacts'
+              linkedin: 'https://www.linkedin.com/company/simple-contacts'
+              kind: funding
+              funding: 10000000
+            github_data:
+              stars: 680
+              license: ISC
+              description: A toolkit for developing and deploying serverless Python code in AWS Lambda.
+              latest_commit_date: '2018-04-14T00:00:00.000Z'
+              latest_commit_link: /nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433
+              release_date: '2018-04-14T02:19:09Z'
+              release_link: 'https://github.com/nficano/python-lambda/releases'
+              contributors_count: 27
+              contributors_link: 'https://github.com/nficano/python-lambda/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db
+              start_date: '2016-02-26T03:21:23Z'
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: python-lambda.svg
+              hash: jfd+VvfnfacOqL6SS4VFHJQK6Mt6neQmGtUWXGDKbaI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-03-22T14:28:38.000Z
           - item:
             name: Stackery
             homepage_url: 'https://www.stackery.io/'

@@ -2421,15 +2421,6 @@ landscape:
             twitter: 'https://twitter.com/snyksec'
             crunchbase: 'https://www.crunchbase.com/organization/snyk'
       - subcategory:
-        name: Libraries
-        items:
-          - item:
-            name: Python Lambda
-            homepage_url: 'https://aws.amazon.com/lambda/'
-            repo_url: 'https://github.com/nficano/python-lambda'
-            logo: ./hosted_logos/python-lambda.svg
-            crunchbase: 'https://www.crunchbase.com/organization/simple-contacts'
-      - subcategory:
         name: Tools
         items:
           - item:
@@ -2492,6 +2483,12 @@ landscape:
             logo: ./hosted_logos/pubnub.svg
             twitter: 'https://twitter.com/PubNub'
             crunchbase: 'https://www.crunchbase.com/organization/pubnub'
+          - item:
+            name: Python Lambda
+            homepage_url: 'https://github.com/nficano/python-lambda'
+            repo_url: 'https://github.com/nficano/python-lambda'
+            logo: ./hosted_logos/python-lambda.svg
+            crunchbase: 'https://www.crunchbase.com/organization/simple-contacts'
           - item:
             name: Stackery
             homepage_url: 'https://www.stackery.io/'

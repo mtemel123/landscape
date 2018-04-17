@@ -1740,7 +1740,6 @@
       "level": 1,
       "children": [
         "Serverless / Security",
-        "Serverless / Libraries",
         "Serverless / Tools",
         "Serverless / Frameworks",
         "Serverless / Hosted Platforms",
@@ -1753,14 +1752,6 @@
       "label": "Security",
       "groupingLabel": "Serverless - Security",
       "url": "security",
-      "level": 2
-    },
-    {
-      "id": "Serverless / Libraries",
-      "parentId": "Serverless",
-      "label": "Libraries",
-      "groupingLabel": "Serverless - Libraries",
-      "url": "libraries",
       "level": 2
     },
     {

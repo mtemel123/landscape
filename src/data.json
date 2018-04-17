@@ -22427,88 +22427,6 @@
     "id": "snyk"
   },
   {
-    "name": "Python Lambda",
-    "homepage_url": "https://aws.amazon.com/lambda/",
-    "repo_url": "https://github.com/nficano/python-lambda",
-    "logo": "./hosted_logos/python-lambda.svg",
-    "crunchbase": "https://www.crunchbase.com/organization/simple-contacts",
-    "github_data": {
-      "stars": 680,
-      "license": "ISC",
-      "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda.",
-      "latest_commit_date": "2018-04-14T00:00:00.000Z",
-      "latest_commit_link": "/nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433",
-      "release_date": "2018-04-14T02:19:09Z",
-      "release_link": "https://github.com/nficano/python-lambda/releases",
-      "contributors_count": 27,
-      "contributors_link": "https://github.com/nficano/python-lambda/graphs/contributors"
-    },
-    "github_start_commit_data": {
-      "start_commit_link": "/nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db",
-      "start_date": "2016-02-26T03:21:23Z"
-    },
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "python-lambda.svg",
-      "hash": "jfd+VvfnfacOqL6SS4VFHJQK6Mt6neQmGtUWXGDKbaI="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitDate": "2016-02-26T03:21:23Z",
-    "firstCommitLink": "https://github.com/nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db",
-    "latestCommitDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-14T00:00:00.000Z"
-    },
-    "latestCommitLink": "https://github.com/nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433",
-    "releaseDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-14T02:19:09Z"
-    },
-    "releaseLink": "https://github.com/nficano/python-lambda/releases",
-    "contributorsCount": 27,
-    "contributorsLink": "https://github.com/nficano/python-lambda/graphs/contributors",
-    "stars": 680,
-    "license": "ISC",
-    "headquarters": "New York, New York",
-    "twitter": "https://twitter.com/simplecontacts",
-    "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
-      "original": "2018-03-22T14:28:38.000Z"
-    },
-    "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda.",
-    "organization": "Simple Contacts",
-    "crunchbaseData": {
-      "name": "Simple Contacts",
-      "description": "Online eye exam and contact lens supplies",
-      "homepage": "https://www.simplecontacts.com",
-      "city": "New York",
-      "region": "New York",
-      "country": "United States",
-      "twitter": "https://twitter.com/simplecontacts",
-      "linkedin": "https://www.linkedin.com/company/simple-contacts",
-      "kind": "funding",
-      "funding": 10000000,
-      "numEmployeesMin": 11,
-      "numEmployeesMax": 50
-    },
-    "path": "Serverless / Libraries",
-    "landscape": "Serverless / Libraries",
-    "category": "Serverless",
-    "amountKind": "funding",
-    "amount": 10000000,
-    "oss": true,
-    "href": "/logos/python-lambda.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "python-lambda"
-  },
-  {
     "name": "Architect",
     "homepage_url": "https://arc.codes/",
     "repo_url": "https://github.com/arc-repos/arc-functions",
@@ -23031,6 +22949,88 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "pub-nub-blocks"
+  },
+  {
+    "name": "Python Lambda",
+    "homepage_url": "https://github.com/nficano/python-lambda",
+    "repo_url": "https://github.com/nficano/python-lambda",
+    "logo": "./hosted_logos/python-lambda.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/simple-contacts",
+    "github_data": {
+      "stars": 680,
+      "license": "ISC",
+      "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda.",
+      "latest_commit_date": "2018-04-14T00:00:00.000Z",
+      "latest_commit_link": "/nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433",
+      "release_date": "2018-04-14T02:19:09Z",
+      "release_link": "https://github.com/nficano/python-lambda/releases",
+      "contributors_count": 27,
+      "contributors_link": "https://github.com/nficano/python-lambda/graphs/contributors"
+    },
+    "github_start_commit_data": {
+      "start_commit_link": "/nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db",
+      "start_date": "2016-02-26T03:21:23Z"
+    },
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "python-lambda.svg",
+      "hash": "jfd+VvfnfacOqL6SS4VFHJQK6Mt6neQmGtUWXGDKbaI="
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitDate": "2016-02-26T03:21:23Z",
+    "firstCommitLink": "https://github.com/nficano/python-lambda/commit/ace29ad81378dce9ae270232fb21e042395689db",
+    "latestCommitDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-14T00:00:00.000Z"
+    },
+    "latestCommitLink": "https://github.com/nficano/python-lambda/commit/203512522adf5ac74e0333380cdf83f2f3d99433",
+    "releaseDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-14T02:19:09Z"
+    },
+    "releaseLink": "https://github.com/nficano/python-lambda/releases",
+    "contributorsCount": 27,
+    "contributorsLink": "https://github.com/nficano/python-lambda/graphs/contributors",
+    "stars": 680,
+    "license": "ISC",
+    "headquarters": "New York, New York",
+    "twitter": "https://twitter.com/simplecontacts",
+    "latestTweetDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2018-03-22T14:28:38.000Z"
+    },
+    "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda.",
+    "organization": "Simple Contacts",
+    "crunchbaseData": {
+      "name": "Simple Contacts",
+      "description": "Online eye exam and contact lens supplies",
+      "homepage": "https://www.simplecontacts.com",
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "twitter": "https://twitter.com/simplecontacts",
+      "linkedin": "https://www.linkedin.com/company/simple-contacts",
+      "kind": "funding",
+      "funding": 10000000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "Serverless / Tools",
+    "landscape": "Serverless / Tools",
+    "category": "Serverless",
+    "amountKind": "funding",
+    "amount": 10000000,
+    "oss": true,
+    "href": "/logos/python-lambda.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "python-lambda"
   },
   {
     "name": "Stackery",
