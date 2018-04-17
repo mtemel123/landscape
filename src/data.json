@@ -24885,7 +24885,7 @@
   },
   {
     "name": "Dispatch",
-    "homepage_url": "https://dispatchframework.io/",
+    "homepage_url": "https://vmware.github.io/dispatch/",
     "repo_url": "https://github.com/vmware/dispatch",
     "logo": "./hosted_logos/dispatch.svg",
     "twitter": "https://twitter.com/DispatchFW",
@@ -25131,75 +25131,6 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "fn"
-  },
-  {
-    "name": "fx",
-    "homepage_url": "https://minghe.me/",
-    "repo_url": "https://github.com/metrue/fx",
-    "logo": "./hosted_logos/fx.svg",
-    "crunchbase": "https://www.crunchbase.com/organization/fx-5505",
-    "github_data": {
-      "stars": 1056,
-      "license": "MIT",
-      "description": "fx is a tool to help you do Function as a Service with painless on your own servers",
-      "latest_commit_date": "2018-01-31T00:00:00.000Z",
-      "latest_commit_link": "/metrue/fx/commit/241e680302f4241a86fa630802720ea2042cb2b5",
-      "contributors_count": 11,
-      "contributors_link": "https://github.com/metrue/fx/graphs/contributors"
-    },
-    "github_start_commit_data": {
-      "start_commit_link": "/metrue/fx/commit/3eea510cb459588f896486121ae8203b39de0258",
-      "start_date": "2017-10-21T07:02:17Z"
-    },
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "fx.svg",
-      "hash": "yC74wk1Fysl/LKl7wuLqLR8dtkgLurUiG+iRvaLUc74="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitDate": {
-      "text": "6 months ago",
-      "value": "910",
-      "original": "2017-10-21T07:02:17Z"
-    },
-    "firstCommitLink": "https://github.com/metrue/fx/commit/3eea510cb459588f896486121ae8203b39de0258",
-    "latestCommitDate": {
-      "text": "3 months ago",
-      "value": "940",
-      "original": "2018-01-31T00:00:00.000Z"
-    },
-    "latestCommitLink": "https://github.com/metrue/fx/commit/241e680302f4241a86fa630802720ea2042cb2b5",
-    "contributorsCount": 11,
-    "contributorsLink": "https://github.com/metrue/fx/graphs/contributors",
-    "stars": 1056,
-    "license": "MIT",
-    "headquarters": "Shanghai, China",
-    "twitter": null,
-    "description": "fx is a tool to help you do Function as a Service with painless on your own servers",
-    "organization": "fx",
-    "crunchbaseData": {
-      "name": "fx",
-      "description": "Hybrid Serverless",
-      "homepage": "https://minghe.me/",
-      "city": "Shanghai",
-      "region": "Shanghai",
-      "country": "China",
-      "twitter": null,
-      "linkedin": null,
-      "numEmployeesMin": null,
-      "numEmployeesMax": null
-    },
-    "path": "Serverless / Installable Platforms",
-    "landscape": "Serverless / Installable Platforms",
-    "category": "Serverless",
-    "oss": true,
-    "href": "/logos/fx.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "fx"
   },
   {
     "name": "Galactic Fog Gestalt",

@@ -13885,7 +13885,7 @@ landscape:
               latest_tweet_date: 2018-04-13T16:30:06.000Z
           - item:
             name: Dispatch
-            homepage_url: 'https://dispatchframework.io/'
+            homepage_url: 'https://vmware.github.io/dispatch/'
             repo_url: 'https://github.com/vmware/dispatch'
             logo: ./hosted_logos/dispatch.svg
             twitter: 'https://twitter.com/DispatchFW'
@@ -14012,42 +14012,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-03-17T06:56:56.000Z
-          - item:
-            name: fx
-            homepage_url: 'https://minghe.me/'
-            repo_url: 'https://github.com/metrue/fx'
-            logo: ./hosted_logos/fx.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fx-5505'
-            crunchbase_data:
-              name: fx
-              description: Hybrid Serverless
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://minghe.me/'
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: null
-              linkedin: null
-            github_data:
-              stars: 1056
-              license: MIT
-              description: fx is a tool to help you do Function as a Service with painless on your own servers
-              latest_commit_date: '2018-01-31T00:00:00.000Z'
-              latest_commit_link: /metrue/fx/commit/241e680302f4241a86fa630802720ea2042cb2b5
-              contributors_count: 11
-              contributors_link: 'https://github.com/metrue/fx/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /metrue/fx/commit/3eea510cb459588f896486121ae8203b39de0258
-              start_date: '2017-10-21T07:02:17Z'
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: fx.svg
-              hash: yC74wk1Fysl/LKl7wuLqLR8dtkgLurUiG+iRvaLUc74=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Galactic Fog Gestalt
             homepage_url: 'http://www.galacticfog.com/product/'

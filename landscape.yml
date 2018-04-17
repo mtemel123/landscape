@@ -2687,7 +2687,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/appscale-inc'
           - item:
             name: Dispatch
-            homepage_url: 'https://dispatchframework.io/'
+            homepage_url: 'https://vmware.github.io/dispatch/'
             repo_url: 'https://github.com/vmware/dispatch'
             logo: ./hosted_logos/dispatch.svg
             twitter: 'https://twitter.com/DispatchFW'
@@ -2706,12 +2706,6 @@ landscape:
             logo: ./hosted_logos/fn.svg
             twitter: 'https://twitter.com/fnproj'
             crunchbase: 'https://www.crunchbase.com/organization/fn'
-          - item:
-            name: fx
-            homepage_url: 'https://minghe.me/'
-            repo_url: 'https://github.com/metrue/fx'
-            logo: ./hosted_logos/fx.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fx-5505'
           - item:
             name: Galactic Fog Gestalt
             homepage_url: 'http://www.galacticfog.com/product/'
