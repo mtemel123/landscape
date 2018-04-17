@@ -1743,8 +1743,8 @@
         "Serverless / Libraries",
         "Serverless / Tools",
         "Serverless / Frameworks",
-        "Serverless / Hosted",
-        "Serverless / Installable"
+        "Serverless / Hosted Platforms",
+        "Serverless / Installable Platforms"
       ]
     },
     {
@@ -1780,19 +1780,19 @@
       "level": 2
     },
     {
-      "id": "Serverless / Hosted",
+      "id": "Serverless / Hosted Platforms",
       "parentId": "Serverless",
-      "label": "Hosted",
-      "groupingLabel": "Serverless - Hosted",
-      "url": "hosted",
+      "label": "Hosted Platforms",
+      "groupingLabel": "Serverless - Hosted Platforms",
+      "url": "hosted-platforms",
       "level": 2
     },
     {
-      "id": "Serverless / Installable",
+      "id": "Serverless / Installable Platforms",
       "parentId": "Serverless",
-      "label": "Installable",
-      "groupingLabel": "Serverless - Installable",
-      "url": "installable",
+      "label": "Installable Platforms",
+      "groupingLabel": "Serverless - Installable Platforms",
+      "url": "installable-platforms",
       "level": 2
     },
     {

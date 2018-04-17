@@ -1411,8 +1411,8 @@
     "license": "Apache-2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T09:00:10.000Z"
     },
     "description": "A toolkit for building secure, portable and lean operating systems for containers",
@@ -1929,8 +1929,8 @@
     "license": "Apache-2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T09:00:10.000Z"
     },
     "description": "A toolkit for creating and managing declarative, self-healing infrastructure.",
@@ -2469,8 +2469,8 @@
     "license": "Apache-2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T09:00:10.000Z"
     },
     "description": "The Docker toolset to pack, ship, store, and deliver content",
@@ -3826,8 +3826,8 @@
     "license": "Apache-2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T11:19:31.000Z"
     },
     "description": "Knox is a secret management service",
@@ -7947,8 +7947,8 @@
     "license": "Unknown License",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T09:00:10.000Z"
     },
     "description": "Swarm: a Docker-native clustering system",
@@ -14839,8 +14839,8 @@
     "license": "Apache-2.0",
     "headquarters": "San Francisco, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T09:00:10.000Z"
     },
     "description": "Define and run multi-container applications with Docker",
@@ -22579,6 +22579,95 @@
     "id": "architect"
   },
   {
+    "name": "Clay",
+    "homepage_url": "https://www.clay.run/",
+    "logo": "./hosted_logos/clay.svg",
+    "crunchbase": "https://www.crunchbase.com/organization/clay-labs",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "clay.svg",
+      "hash": "Wx0nMf95ax29s/1obB1PREiIahhb3kTeA8VPYrnKHds="
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "New York, New York",
+    "twitter": null,
+    "description": "Platforms",
+    "organization": "Clay Labs",
+    "crunchbaseData": {
+      "name": "Clay Labs",
+      "description": "Platforms",
+      "homepage": "https://www.clay.run/",
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "twitter": null,
+      "linkedin": null,
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "path": "Serverless / Tools",
+    "landscape": "Serverless / Tools",
+    "category": "Serverless",
+    "oss": false,
+    "href": "/logos/clay.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "clay"
+  },
+  {
+    "name": "Cloudboost",
+    "homepage_url": "https://www.cloudboost.io/",
+    "logo": "./hosted_logos/cloudboost.svg",
+    "twitter": "https://twitter.com/cloudboostio",
+    "crunchbase": "https://www.crunchbase.com/organization/cloudboost",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "cloudboost.svg",
+      "hash": "K2+vaIqYkxJlDafDug7GPcSCOwXIe/0j9qPuGnTHGdc="
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "Hyderabad, India",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-16T18:00:11.000Z"
+    },
+    "description": "One Complete NoSQL Database Service for your app.",
+    "organization": "CloudBoost",
+    "crunchbaseData": {
+      "name": "CloudBoost",
+      "description": "One Complete NoSQL Database Service for your app.",
+      "homepage": "https://cloudboost.io",
+      "city": "Hyderabad",
+      "region": "Andhra Pradesh",
+      "country": "India",
+      "twitter": "http://twitter.com/cloudboostio",
+      "linkedin": "https://www.linkedin.com/company/cloudboost-io",
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "Serverless / Tools",
+    "landscape": "Serverless / Tools",
+    "category": "Serverless",
+    "oss": false,
+    "href": "/logos/cloudboost.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "cloudboost"
+  },
+  {
     "name": "Dashbird",
     "homepage_url": "https://www.dashbird.io/",
     "logo": "./hosted_logos/dashbird.svg",
@@ -22728,6 +22817,56 @@
     "id": "i-opipe"
   },
   {
+    "name": "Iron.io",
+    "homepage_url": "https://www.iron.io/",
+    "logo": "https://cdn.worldvectorlogo.com/logos/iron-io.svg",
+    "twitter": "https://twitter.com/getiron",
+    "crunchbase": "https://www.crunchbase.com/organization/iron-io",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "iron-io.svg"
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2018-03-07T17:43:00.000Z"
+    },
+    "description": "Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.",
+    "organization": "Iron.io",
+    "crunchbaseData": {
+      "name": "Iron.io",
+      "description": "Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.",
+      "homepage": "https://www.iron.io",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "http://twitter.com/getiron",
+      "linkedin": "https://www.linkedin.com/company/iron-io",
+      "kind": "funding",
+      "funding": 17000000,
+      "numEmployeesMin": 11,
+      "numEmployeesMax": 50
+    },
+    "path": "Serverless / Tools",
+    "landscape": "Serverless / Tools",
+    "category": "Serverless",
+    "amountKind": "funding",
+    "amount": 17000000,
+    "oss": false,
+    "href": "/logos/iron-io.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "iron-io"
+  },
+  {
     "name": "Node Lambda",
     "homepage_url": "https://github.com/motdotla/node-lambda",
     "repo_url": "https://github.com/motdotla/node-lambda",
@@ -22791,6 +22930,56 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "node-lambda"
+  },
+  {
+    "name": "Overclock",
+    "homepage_url": "https://www.ovrclk.com/",
+    "logo": "https://www.ovrclk.com/images/svg/logo.svg",
+    "twitter": "https://twitter.com/OvrClkHQ",
+    "crunchbase": "https://www.crunchbase.com/organization/ovrclk",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "overclock.svg"
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-11T18:22:41.000Z"
+    },
+    "description": "Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple",
+    "organization": "Overclock Labs",
+    "crunchbaseData": {
+      "name": "Overclock Labs",
+      "description": "Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple",
+      "homepage": "http://www.ovrclk.com",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://www.twitter.com/ovrclkhq",
+      "linkedin": "https://www.linkedin.com/company-beta/6636225/",
+      "kind": "funding",
+      "funding": 1310000,
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "Serverless / Tools",
+    "landscape": "Serverless / Tools",
+    "category": "Serverless",
+    "amountKind": "funding",
+    "amount": 1310000,
+    "oss": false,
+    "href": "/logos/overclock.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "overclock"
   },
   {
     "name": "PubNub BLOCKS",
@@ -23481,6 +23670,52 @@
     "id": "gun-io-zappa"
   },
   {
+    "name": "Hyper Func",
+    "homepage_url": "https://docs.hyper.sh/Feature/container/func.html",
+    "logo": "https://www.hyper.sh/logo/logo_dark.svg",
+    "twitter": "https://twitter.com/hyper_sh",
+    "crunchbase": "https://www.crunchbase.com/organization/hyper-4",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "hyper-func.svg"
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "Beijing, China",
+    "latestTweetDate": {
+      "text": "about a month",
+      "value": "960",
+      "original": "2018-03-19T17:19:14.000Z"
+    },
+    "description": "Hyper.sh is a secure container cloud service.",
+    "organization": "Hyper.sh",
+    "crunchbaseData": {
+      "name": "Hyper.sh",
+      "description": "Hyper.sh is a secure container cloud service.",
+      "homepage": "https://hyper.sh/",
+      "city": "Beijing",
+      "region": "Beijing",
+      "country": "China",
+      "twitter": "https://twitter.com/hyper_sh",
+      "linkedin": null,
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "Serverless / Frameworks",
+    "landscape": "Serverless / Frameworks",
+    "category": "Serverless",
+    "oss": false,
+    "href": "/logos/hyper-func.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "hyper-func"
+  },
+  {
     "name": "Serverless",
     "homepage_url": "https://serverless.com/",
     "repo_url": "https://github.com/serverless/serverless",
@@ -23827,8 +24062,8 @@
       "numEmployeesMin": 11,
       "numEmployeesMax": 50
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 12900000,
@@ -23882,8 +24117,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 697840238592,
@@ -23937,8 +24172,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 725089189888,
@@ -23988,8 +24223,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 4700000,
@@ -23998,146 +24233,6 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "binaris"
-  },
-  {
-    "name": "Clay",
-    "homepage_url": "https://www.clay.run/",
-    "logo": "./hosted_logos/clay.svg",
-    "crunchbase": "https://www.crunchbase.com/organization/clay-labs",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "clay.svg",
-      "hash": "Wx0nMf95ax29s/1obB1PREiIahhb3kTeA8VPYrnKHds="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "New York, New York",
-    "twitter": null,
-    "description": "Platforms",
-    "organization": "Clay Labs",
-    "crunchbaseData": {
-      "name": "Clay Labs",
-      "description": "Platforms",
-      "homepage": "https://www.clay.run/",
-      "city": "New York",
-      "region": "New York",
-      "country": "United States",
-      "twitter": null,
-      "linkedin": null,
-      "numEmployeesMin": null,
-      "numEmployeesMax": null
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "oss": false,
-    "href": "/logos/clay.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "clay"
-  },
-  {
-    "name": "Cloudboost",
-    "homepage_url": "https://www.cloudboost.io/",
-    "logo": "./hosted_logos/cloudboost.svg",
-    "twitter": "https://twitter.com/cloudboostio",
-    "crunchbase": "https://www.crunchbase.com/organization/cloudboost",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "cloudboost.svg",
-      "hash": "K2+vaIqYkxJlDafDug7GPcSCOwXIe/0j9qPuGnTHGdc="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "Hyderabad, India",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-16T18:00:11.000Z"
-    },
-    "description": "One Complete NoSQL Database Service for your app.",
-    "organization": "CloudBoost",
-    "crunchbaseData": {
-      "name": "CloudBoost",
-      "description": "One Complete NoSQL Database Service for your app.",
-      "homepage": "https://cloudboost.io",
-      "city": "Hyderabad",
-      "region": "Andhra Pradesh",
-      "country": "India",
-      "twitter": "http://twitter.com/cloudboostio",
-      "linkedin": "https://www.linkedin.com/company/cloudboost-io",
-      "numEmployeesMin": 1,
-      "numEmployeesMax": 10
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "oss": false,
-    "href": "/logos/cloudboost.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "cloudboost"
-  },
-  {
-    "name": "Galactic Fog Gestalt",
-    "homepage_url": "http://www.galacticfog.com/product/",
-    "logo": "./hosted_logos/galacticfog.svg",
-    "twitter": "https://twitter.com/galacticfog",
-    "crunchbase": "https://www.crunchbase.com/organization/galactic-fog",
-    "cncf_membership_data": {
-      "cncf_member": "silver"
-    },
-    "image_data": {
-      "fileName": "galactic-fog-gestalt.svg",
-      "hash": "3bBGBDmfRJHACvGbC9ZCqvEFlcHjeQhNo3peKQPKE3U="
-    },
-    "cncfMember": "silver",
-    "cncfRelation": "member",
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "Newark, New Jersey",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-12T18:59:44.000Z"
-    },
-    "description": "Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.",
-    "organization": "Galactic Fog",
-    "crunchbaseData": {
-      "name": "Galactic Fog",
-      "description": "Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.",
-      "homepage": "http://www.galacticfog.com/",
-      "city": "Newark",
-      "region": "New Jersey",
-      "country": "United States",
-      "twitter": "https://twitter.com/galacticfog",
-      "linkedin": "https://www.linkedin.com/company/galactic-fog",
-      "kind": "funding",
-      "funding": 2501000,
-      "numEmployeesMin": 1,
-      "numEmployeesMax": 10
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "amountKind": "funding",
-    "amount": 2501000,
-    "oss": false,
-    "href": "/logos/galactic-fog-gestalt.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "galactic-fog-gestalt"
   },
   {
     "name": "Google Cloud Functions",
@@ -24183,8 +24278,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 723742949376,
@@ -24193,52 +24288,6 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "google-cloud-functions"
-  },
-  {
-    "name": "Hyper Func",
-    "homepage_url": "https://docs.hyper.sh/Feature/container/func.html",
-    "logo": "https://www.hyper.sh/logo/logo_dark.svg",
-    "twitter": "https://twitter.com/hyper_sh",
-    "crunchbase": "https://www.crunchbase.com/organization/hyper-4",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "hyper-func.svg"
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "Beijing, China",
-    "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
-      "original": "2018-03-19T17:19:14.000Z"
-    },
-    "description": "Hyper.sh is a secure container cloud service.",
-    "organization": "Hyper.sh",
-    "crunchbaseData": {
-      "name": "Hyper.sh",
-      "description": "Hyper.sh is a secure container cloud service.",
-      "homepage": "https://hyper.sh/",
-      "city": "Beijing",
-      "region": "Beijing",
-      "country": "China",
-      "twitter": "https://twitter.com/hyper_sh",
-      "linkedin": null,
-      "numEmployeesMin": 1,
-      "numEmployeesMax": 10
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "oss": false,
-    "href": "/logos/hyper-func.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "hyper-func"
   },
   {
     "name": "IBM Cloud Functions",
@@ -24284,8 +24333,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 145443209216,
@@ -24294,107 +24343,6 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "ibm-cloud-functions"
-  },
-  {
-    "name": "Iron.io",
-    "homepage_url": "https://www.iron.io/",
-    "logo": "https://cdn.worldvectorlogo.com/logos/iron-io.svg",
-    "twitter": "https://twitter.com/getiron",
-    "crunchbase": "https://www.crunchbase.com/organization/iron-io",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "iron-io.svg"
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "San Francisco, California",
-    "latestTweetDate": {
-      "text": "about a month",
-      "value": "960",
-      "original": "2018-03-07T17:43:00.000Z"
-    },
-    "description": "Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.",
-    "organization": "Iron.io",
-    "crunchbaseData": {
-      "name": "Iron.io",
-      "description": "Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.",
-      "homepage": "https://www.iron.io",
-      "city": "San Francisco",
-      "region": "California",
-      "country": "United States",
-      "twitter": "http://twitter.com/getiron",
-      "linkedin": "https://www.linkedin.com/company/iron-io",
-      "kind": "funding",
-      "funding": 17000000,
-      "numEmployeesMin": 11,
-      "numEmployeesMax": 50
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "amountKind": "funding",
-    "amount": 17000000,
-    "oss": false,
-    "href": "/logos/iron-io.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "iron-io"
-  },
-  {
-    "name": "LunchBadger",
-    "homepage_url": "https://www.lunchbadger.com/",
-    "logo": "./hosted_logos/lunchbadger.svg",
-    "twitter": "https://twitter.com/LunchBadger",
-    "crunchbase": "https://www.crunchbase.com/organization/lunchbadger-inc",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "lunch-badger.svg",
-      "hash": "NszBeOLDvPpQMMaNnL9mkt3DUrpPEWA+qZHSN1TIfkA="
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "San Francisco, California",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-16T17:40:08.000Z"
-    },
-    "description": "LunchBadger is a multi-cloud platform for microservices and serverless.",
-    "organization": "LunchBadger",
-    "crunchbaseData": {
-      "name": "LunchBadger",
-      "description": "LunchBadger is a multi-cloud platform for microservices and serverless.",
-      "homepage": "https://www.lunchbadger.com",
-      "city": "San Francisco",
-      "region": "California",
-      "country": "United States",
-      "twitter": "https://www.twitter.com/lunchbadger",
-      "linkedin": "https://www.linkedin.com/company/lunchbadger",
-      "kind": "funding",
-      "funding": 1500000,
-      "numEmployeesMin": 1,
-      "numEmployeesMax": 10
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "amountKind": "funding",
-    "amount": 1500000,
-    "oss": false,
-    "href": "/logos/lunch-badger.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "lunch-badger"
   },
   {
     "name": "Nano Lambda",
@@ -24429,8 +24377,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "oss": false,
     "href": "/logos/nano-lambda.svg",
@@ -24482,8 +24430,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 187990360064,
@@ -24492,56 +24440,6 @@
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "oracle-application-container-cloud"
-  },
-  {
-    "name": "Overclock",
-    "homepage_url": "https://www.ovrclk.com/",
-    "logo": "https://www.ovrclk.com/images/svg/logo.svg",
-    "twitter": "https://twitter.com/OvrClkHQ",
-    "crunchbase": "https://www.crunchbase.com/organization/ovrclk",
-    "cncf_membership_data": {
-      "cncf_member": false
-    },
-    "image_data": {
-      "fileName": "overclock.svg"
-    },
-    "cncfMember": false,
-    "cncfRelation": false,
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "San Francisco, California",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-11T18:22:41.000Z"
-    },
-    "description": "Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple",
-    "organization": "Overclock Labs",
-    "crunchbaseData": {
-      "name": "Overclock Labs",
-      "description": "Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple",
-      "homepage": "http://www.ovrclk.com",
-      "city": "San Francisco",
-      "region": "California",
-      "country": "United States",
-      "twitter": "https://www.twitter.com/ovrclkhq",
-      "linkedin": "https://www.linkedin.com/company-beta/6636225/",
-      "kind": "funding",
-      "funding": 1310000,
-      "numEmployeesMin": 1,
-      "numEmployeesMax": 10
-    },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
-    "category": "Serverless",
-    "amountKind": "funding",
-    "amount": 1310000,
-    "oss": false,
-    "href": "/logos/overclock.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "overclock"
   },
   {
     "name": "PubNub Functions",
@@ -24582,8 +24480,8 @@
       "numEmployeesMin": 51,
       "numEmployeesMax": 100
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 46100000,
@@ -24632,8 +24530,8 @@
       "numEmployeesMin": 51,
       "numEmployeesMax": 100
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 17600000,
@@ -24683,8 +24581,8 @@
       "numEmployeesMin": 11,
       "numEmployeesMax": 50
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 10250000,
@@ -24737,8 +24635,8 @@
       "numEmployeesMin": 501,
       "numEmployeesMax": 1000
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 3723074560,
@@ -24781,8 +24679,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "oss": false,
     "href": "/logos/weblab.svg",
@@ -24828,8 +24726,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Hosted",
-    "landscape": "Serverless / Hosted",
+    "path": "Serverless / Hosted Platforms",
+    "landscape": "Serverless / Hosted Platforms",
     "category": "Serverless",
     "oss": false,
     "href": "/logos/zeit-now.svg",
@@ -24898,8 +24796,8 @@
       "numEmployeesMin": 1,
       "numEmployeesMax": 10
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/apache-open-whisk.svg",
@@ -24976,8 +24874,8 @@
       "numEmployeesMin": 11,
       "numEmployeesMax": 50
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/app-scale.svg",
@@ -25064,8 +24962,8 @@
       "numEmployeesMin": 10001,
       "numEmployeesMax": 1000000
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "amountKind": "market_cap",
     "amount": 51779981312,
@@ -25145,8 +25043,8 @@
       "numEmployeesMin": 51,
       "numEmployeesMax": 100
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 36500000,
@@ -25225,8 +25123,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/fn.svg",
@@ -25294,14 +25192,65 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/fx.svg",
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "fx"
+  },
+  {
+    "name": "Galactic Fog Gestalt",
+    "homepage_url": "http://www.galacticfog.com/product/",
+    "logo": "./hosted_logos/galacticfog.svg",
+    "twitter": "https://twitter.com/galacticfog",
+    "crunchbase": "https://www.crunchbase.com/organization/galactic-fog",
+    "cncf_membership_data": {
+      "cncf_member": "silver"
+    },
+    "image_data": {
+      "fileName": "galactic-fog-gestalt.svg",
+      "hash": "3bBGBDmfRJHACvGbC9ZCqvEFlcHjeQhNo3peKQPKE3U="
+    },
+    "cncfMember": "silver",
+    "cncfRelation": "member",
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "Newark, New Jersey",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-12T18:59:44.000Z"
+    },
+    "description": "Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.",
+    "organization": "Galactic Fog",
+    "crunchbaseData": {
+      "name": "Galactic Fog",
+      "description": "Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.",
+      "homepage": "http://www.galacticfog.com/",
+      "city": "Newark",
+      "region": "New Jersey",
+      "country": "United States",
+      "twitter": "https://twitter.com/galacticfog",
+      "linkedin": "https://www.linkedin.com/company/galactic-fog",
+      "kind": "funding",
+      "funding": 2501000,
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
+    "category": "Serverless",
+    "amountKind": "funding",
+    "amount": 2501000,
+    "oss": false,
+    "href": "/logos/galactic-fog-gestalt.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "galactic-fog-gestalt"
   },
   {
     "name": "Kubeless",
@@ -25363,14 +25312,65 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/kubeless.svg",
     "bestPracticeBadgeId": false,
     "bestPracticePercentage": null,
     "id": "kubeless"
+  },
+  {
+    "name": "LunchBadger",
+    "homepage_url": "https://www.lunchbadger.com/",
+    "logo": "./hosted_logos/lunchbadger.svg",
+    "twitter": "https://twitter.com/LunchBadger",
+    "crunchbase": "https://www.crunchbase.com/organization/lunchbadger-inc",
+    "cncf_membership_data": {
+      "cncf_member": false
+    },
+    "image_data": {
+      "fileName": "lunch-badger.svg",
+      "hash": "NszBeOLDvPpQMMaNnL9mkt3DUrpPEWA+qZHSN1TIfkA="
+    },
+    "cncfMember": false,
+    "cncfRelation": false,
+    "firstCommitLink": null,
+    "latestCommitLink": null,
+    "license": "NotOpenSource",
+    "headquarters": "San Francisco, California",
+    "latestTweetDate": {
+      "text": "this week",
+      "value": "990",
+      "original": "2018-04-16T17:40:08.000Z"
+    },
+    "description": "LunchBadger is a multi-cloud platform for microservices and serverless.",
+    "organization": "LunchBadger",
+    "crunchbaseData": {
+      "name": "LunchBadger",
+      "description": "LunchBadger is a multi-cloud platform for microservices and serverless.",
+      "homepage": "https://www.lunchbadger.com",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://www.twitter.com/lunchbadger",
+      "linkedin": "https://www.linkedin.com/company/lunchbadger",
+      "kind": "funding",
+      "funding": 1500000,
+      "numEmployeesMin": 1,
+      "numEmployeesMax": 10
+    },
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
+    "category": "Serverless",
+    "amountKind": "funding",
+    "amount": 1500000,
+    "oss": false,
+    "href": "/logos/lunch-badger.svg",
+    "bestPracticeBadgeId": false,
+    "bestPracticePercentage": null,
+    "id": "lunch-badger"
   },
   {
     "name": "Nuclio",
@@ -25439,8 +25439,8 @@
       "numEmployeesMin": 51,
       "numEmployeesMax": 100
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 48000000,
@@ -25511,8 +25511,8 @@
       "numEmployeesMin": 1,
       "numEmployeesMax": 10
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/open-faa-s.svg",
@@ -25576,8 +25576,8 @@
       "numEmployeesMin": null,
       "numEmployeesMax": null
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "oss": true,
     "href": "/logos/open-lambda.svg",
@@ -25652,8 +25652,8 @@
       "numEmployeesMin": 1001,
       "numEmployeesMax": 5000
     },
-    "path": "Serverless / Installable",
-    "landscape": "Serverless / Installable",
+    "path": "Serverless / Installable Platforms",
+    "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
     "amountKind": "funding",
     "amount": 1704000000,
@@ -29952,8 +29952,8 @@
     "headquarters": "Eindhoven, The Netherlands",
     "twitter": "https://twitter.com/kumina_bv",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T11:11:03.000Z"
     },
     "organization": "Kumina",

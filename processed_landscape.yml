@@ -12593,6 +12593,57 @@ landscape:
             twitter_data:
               latest_tweet_date: 2017-10-11T15:15:29.000Z
           - item:
+            name: Clay
+            homepage_url: 'https://www.clay.run/'
+            logo: ./hosted_logos/clay.svg
+            crunchbase: 'https://www.crunchbase.com/organization/clay-labs'
+            crunchbase_data:
+              name: Clay Labs
+              description: Platforms
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.clay.run/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: null
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: clay.svg
+              hash: Wx0nMf95ax29s/1obB1PREiIahhb3kTeA8VPYrnKHds=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Cloudboost
+            homepage_url: 'https://www.cloudboost.io/'
+            logo: ./hosted_logos/cloudboost.svg
+            twitter: 'https://twitter.com/cloudboostio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloudboost'
+            crunchbase_data:
+              name: CloudBoost
+              description: One Complete NoSQL Database Service for your app.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://cloudboost.io'
+              city: Hyderabad
+              region: Andhra Pradesh
+              country: India
+              twitter: 'http://twitter.com/cloudboostio'
+              linkedin: 'https://www.linkedin.com/company/cloudboost-io'
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: cloudboost.svg
+              hash: K2+vaIqYkxJlDafDug7GPcSCOwXIe/0j9qPuGnTHGdc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-16T18:00:11.000Z
+          - item:
             name: Dashbird
             homepage_url: 'https://www.dashbird.io/'
             logo: ./hosted_logos/dashbird.svg
@@ -12682,6 +12733,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-15T18:20:52.000Z
           - item:
+            name: Iron.io
+            homepage_url: 'https://www.iron.io/'
+            logo: 'https://cdn.worldvectorlogo.com/logos/iron-io.svg'
+            twitter: 'https://twitter.com/getiron'
+            crunchbase: 'https://www.crunchbase.com/organization/iron-io'
+            crunchbase_data:
+              name: Iron.io
+              description: Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.iron.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/getiron'
+              linkedin: 'https://www.linkedin.com/company/iron-io'
+              kind: funding
+              funding: 17000000
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: iron-io.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-03-07T17:43:00.000Z
+          - item:
             name: Node Lambda
             homepage_url: 'https://github.com/motdotla/node-lambda'
             repo_url: 'https://github.com/motdotla/node-lambda'
@@ -12717,6 +12796,34 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Overclock
+            homepage_url: 'https://www.ovrclk.com/'
+            logo: 'https://www.ovrclk.com/images/svg/logo.svg'
+            twitter: 'https://twitter.com/OvrClkHQ'
+            crunchbase: 'https://www.crunchbase.com/organization/ovrclk'
+            crunchbase_data:
+              name: Overclock Labs
+              description: 'Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.ovrclk.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://www.twitter.com/ovrclkhq'
+              linkedin: 'https://www.linkedin.com/company-beta/6636225/'
+              kind: funding
+              funding: 1310000
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: overclock.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-11T18:22:41.000Z
           - item:
             name: PubNub BLOCKS
             homepage_url: 'https://www.pubnub.com/docs/blocks-catalog'
@@ -13094,6 +13201,32 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-16T19:05:07.000Z
           - item:
+            name: Hyper Func
+            homepage_url: 'https://docs.hyper.sh/Feature/container/func.html'
+            logo: 'https://www.hyper.sh/logo/logo_dark.svg'
+            twitter: 'https://twitter.com/hyper_sh'
+            crunchbase: 'https://www.crunchbase.com/organization/hyper-4'
+            crunchbase_data:
+              name: Hyper.sh
+              description: Hyper.sh is a secure container cloud service.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://hyper.sh/'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: 'https://twitter.com/hyper_sh'
+              linkedin: null
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: hyper-func.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-03-19T17:19:14.000Z
+          - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
             repo_url: 'https://github.com/serverless/serverless'
@@ -13261,7 +13394,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-11T18:07:18.000Z
       - subcategory:
-        name: Hosted
+        name: Hosted Platforms
         items:
           - item:
             name: Algorithmia
@@ -13385,86 +13518,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-11T07:23:56.000Z
           - item:
-            name: Clay
-            homepage_url: 'https://www.clay.run/'
-            logo: ./hosted_logos/clay.svg
-            crunchbase: 'https://www.crunchbase.com/organization/clay-labs'
-            crunchbase_data:
-              name: Clay Labs
-              description: Platforms
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.clay.run/'
-              city: New York
-              region: New York
-              country: United States
-              twitter: null
-              linkedin: null
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: clay.svg
-              hash: Wx0nMf95ax29s/1obB1PREiIahhb3kTeA8VPYrnKHds=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Cloudboost
-            homepage_url: 'https://www.cloudboost.io/'
-            logo: ./hosted_logos/cloudboost.svg
-            twitter: 'https://twitter.com/cloudboostio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloudboost'
-            crunchbase_data:
-              name: CloudBoost
-              description: One Complete NoSQL Database Service for your app.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://cloudboost.io'
-              city: Hyderabad
-              region: Andhra Pradesh
-              country: India
-              twitter: 'http://twitter.com/cloudboostio'
-              linkedin: 'https://www.linkedin.com/company/cloudboost-io'
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: cloudboost.svg
-              hash: K2+vaIqYkxJlDafDug7GPcSCOwXIe/0j9qPuGnTHGdc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-16T18:00:11.000Z
-          - item:
-            name: Galactic Fog Gestalt
-            homepage_url: 'http://www.galacticfog.com/product/'
-            logo: ./hosted_logos/galacticfog.svg
-            twitter: 'https://twitter.com/galacticfog'
-            crunchbase: 'https://www.crunchbase.com/organization/galactic-fog'
-            crunchbase_data:
-              name: Galactic Fog
-              description: 'Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.galacticfog.com/'
-              city: Newark
-              region: New Jersey
-              country: United States
-              twitter: 'https://twitter.com/galacticfog'
-              linkedin: 'https://www.linkedin.com/company/galactic-fog'
-              kind: funding
-              funding: 2501000
-            cncf_membership_data:
-              cncf_member: silver
-            image_data:
-              fileName: galactic-fog-gestalt.svg
-              hash: 3bBGBDmfRJHACvGbC9ZCqvEFlcHjeQhNo3peKQPKE3U=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-12T18:59:44.000Z
-          - item:
             name: Google Cloud Functions
             homepage_url: 'https://cloud.google.com/functions/'
             logo: ./hosted_logos/google-cloudfunctions.svg
@@ -13497,32 +13550,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-14T14:00:00.000Z
           - item:
-            name: Hyper Func
-            homepage_url: 'https://docs.hyper.sh/Feature/container/func.html'
-            logo: 'https://www.hyper.sh/logo/logo_dark.svg'
-            twitter: 'https://twitter.com/hyper_sh'
-            crunchbase: 'https://www.crunchbase.com/organization/hyper-4'
-            crunchbase_data:
-              name: Hyper.sh
-              description: Hyper.sh is a secure container cloud service.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://hyper.sh/'
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: 'https://twitter.com/hyper_sh'
-              linkedin: null
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: hyper-func.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-03-19T17:19:14.000Z
-          - item:
             name: IBM Cloud Functions
             homepage_url: 'https://console.bluemix.net/openwhisk/'
             logo: ./hosted_logos/ibm-cloud.svg
@@ -13554,63 +13581,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-04-16T19:44:07.000Z
-          - item:
-            name: Iron.io
-            homepage_url: 'https://www.iron.io/'
-            logo: 'https://cdn.worldvectorlogo.com/logos/iron-io.svg'
-            twitter: 'https://twitter.com/getiron'
-            crunchbase: 'https://www.crunchbase.com/organization/iron-io'
-            crunchbase_data:
-              name: Iron.io
-              description: Iron.io is a scalable cloud-based message queue and processing platform for building distributed cloud applications.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.iron.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/getiron'
-              linkedin: 'https://www.linkedin.com/company/iron-io'
-              kind: funding
-              funding: 17000000
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: iron-io.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-03-07T17:43:00.000Z
-          - item:
-            name: LunchBadger
-            homepage_url: 'https://www.lunchbadger.com/'
-            logo: ./hosted_logos/lunchbadger.svg
-            twitter: 'https://twitter.com/LunchBadger'
-            crunchbase: 'https://www.crunchbase.com/organization/lunchbadger-inc'
-            crunchbase_data:
-              name: LunchBadger
-              description: LunchBadger is a multi-cloud platform for microservices and serverless.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.lunchbadger.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://www.twitter.com/lunchbadger'
-              linkedin: 'https://www.linkedin.com/company/lunchbadger'
-              kind: funding
-              funding: 1500000
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: lunch-badger.svg
-              hash: NszBeOLDvPpQMMaNnL9mkt3DUrpPEWA+qZHSN1TIfkA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-16T17:40:08.000Z
           - item:
             name: Nano Lambda
             homepage_url: 'http://nano-lambda.com/'
@@ -13666,34 +13636,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-04-16T23:29:47.000Z
-          - item:
-            name: Overclock
-            homepage_url: 'https://www.ovrclk.com/'
-            logo: 'https://www.ovrclk.com/images/svg/logo.svg'
-            twitter: 'https://twitter.com/OvrClkHQ'
-            crunchbase: 'https://www.crunchbase.com/organization/ovrclk'
-            crunchbase_data:
-              name: Overclock Labs
-              description: 'Overclock Labs develops protocols, tools, and infrastructure to make foundational elements of the internet open, decentralized, and simple'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.ovrclk.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://www.twitter.com/ovrclkhq'
-              linkedin: 'https://www.linkedin.com/company-beta/6636225/'
-              kind: funding
-              funding: 1310000
-            cncf_membership_data:
-              cncf_member: false
-            image_data:
-              fileName: overclock.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-11T18:22:41.000Z
           - item:
             name: PubNub Functions
             homepage_url: 'https://www.pubnub.com/products/functions/'
@@ -13862,7 +13804,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-04-16T19:02:05.000Z
       - subcategory:
-        name: Installable
+        name: Installable Platforms
         items:
           - item:
             name: Apache OpenWhisk
@@ -14110,6 +14052,35 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Galactic Fog Gestalt
+            homepage_url: 'http://www.galacticfog.com/product/'
+            logo: ./hosted_logos/galacticfog.svg
+            twitter: 'https://twitter.com/galacticfog'
+            crunchbase: 'https://www.crunchbase.com/organization/galactic-fog'
+            crunchbase_data:
+              name: Galactic Fog
+              description: 'Galactic Fog provides a control plane to rapidly adopt, build, deploy & manage cross-cloud, enterprise FaaS, CaaS & future cloud tech.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.galacticfog.com/'
+              city: Newark
+              region: New Jersey
+              country: United States
+              twitter: 'https://twitter.com/galacticfog'
+              linkedin: 'https://www.linkedin.com/company/galactic-fog'
+              kind: funding
+              funding: 2501000
+            cncf_membership_data:
+              cncf_member: silver
+            image_data:
+              fileName: galactic-fog-gestalt.svg
+              hash: 3bBGBDmfRJHACvGbC9ZCqvEFlcHjeQhNo3peKQPKE3U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-12T18:59:44.000Z
+          - item:
             name: Kubeless
             homepage_url: 'http://kubeless.io/'
             repo_url: 'https://github.com/kubeless/kubeless'
@@ -14147,6 +14118,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-04-13T08:21:34.000Z
+          - item:
+            name: LunchBadger
+            homepage_url: 'https://www.lunchbadger.com/'
+            logo: ./hosted_logos/lunchbadger.svg
+            twitter: 'https://twitter.com/LunchBadger'
+            crunchbase: 'https://www.crunchbase.com/organization/lunchbadger-inc'
+            crunchbase_data:
+              name: LunchBadger
+              description: LunchBadger is a multi-cloud platform for microservices and serverless.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.lunchbadger.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://www.twitter.com/lunchbadger'
+              linkedin: 'https://www.linkedin.com/company/lunchbadger'
+              kind: funding
+              funding: 1500000
+            cncf_membership_data:
+              cncf_member: false
+            image_data:
+              fileName: lunch-badger.svg
+              hash: NszBeOLDvPpQMMaNnL9mkt3DUrpPEWA+qZHSN1TIfkA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-16T17:40:08.000Z
           - item:
             name: Nuclio
             homepage_url: 'https://nuclio.io/'
