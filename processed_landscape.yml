@@ -13603,37 +13603,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Oracle Application Container Cloud
-            homepage_url: 'https://cloud.oracle.com/acc'
-            logo: ./hosted_logos/oracle-applicationcontainercloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
-            crunchbase_data:
-              name: Oracle
-              description: Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://oracle.com'
-              city: Redwood Shores
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/Oracle'
-              linkedin: 'http://www.linkedin.com/company/1028'
-              ticker: ORCL
-              kind: market_cap
-            cncf_membership_data:
-              cncf_member: platinum
-            yahoo_finance_data:
-              market_cap: 187990360064
-              effective_ticker: ORCL
-            image_data:
-              fileName: oracle-application-container-cloud.svg
-              hash: gL2t/CjRiYMGXPoLTow4LecVEAE90NwEW1Y7qcGk7vc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-16T23:29:47.000Z
-          - item:
             name: PubNub Functions
             homepage_url: 'https://www.pubnub.com/products/functions/'
             logo: 'https://www.pubnub.com/wp-content/uploads/2017/08/functions-header-logo.svg'
@@ -13977,18 +13946,20 @@ landscape:
             repo_url: 'https://github.com/fnproject/fn'
             logo: ./hosted_logos/fn.svg
             twitter: 'https://twitter.com/fnproj'
-            crunchbase: 'https://www.crunchbase.com/organization/fn'
+            crunchbase: 'https://www.crunchbase.com/organization/oracle'
             crunchbase_data:
-              name: Fn
-              description: Platforms
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://fnproject.io/'
+              name: Oracle
+              description: Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://oracle.com'
               city: Redwood Shores
               region: California
               country: United States
-              twitter: 'https://twitter.com/fnproj'
-              linkedin: null
+              twitter: 'http://twitter.com/Oracle'
+              linkedin: 'http://www.linkedin.com/company/1028'
+              ticker: ORCL
+              kind: market_cap
             github_data:
               stars: 2626
               license: Apache-2.0
@@ -14003,7 +13974,10 @@ landscape:
               start_commit_link: /fnproject/fn/commit/92623001b5f63a8ecee77525dc0b853f8ba5fe79
               start_date: '2012-12-31T03:21:31Z'
             cncf_membership_data:
-              cncf_member: false
+              cncf_member: platinum
+            yahoo_finance_data:
+              market_cap: 187990360064
+              effective_ticker: ORCL
             image_data:
               fileName: fn.svg
               hash: OhaCFyVR5a3g9hk3Gj61VLPJIm1+4P1d/aL+C2qjBPI=

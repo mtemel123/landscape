@@ -2629,11 +2629,6 @@ landscape:
             logo: ./hosted_logos/nanolambda.svg
             crunchbase: 'https://www.crunchbase.com/organization/nano-lambda'
           - item:
-            name: Oracle Application Container Cloud
-            homepage_url: 'https://cloud.oracle.com/acc'
-            logo: ./hosted_logos/oracle-applicationcontainercloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
-          - item:
             name: PubNub Functions
             homepage_url: 'https://www.pubnub.com/products/functions/'
             logo: 'https://www.pubnub.com/wp-content/uploads/2017/08/functions-header-logo.svg'
@@ -2705,7 +2700,7 @@ landscape:
             repo_url: 'https://github.com/fnproject/fn'
             logo: ./hosted_logos/fn.svg
             twitter: 'https://twitter.com/fnproj'
-            crunchbase: 'https://www.crunchbase.com/organization/fn'
+            crunchbase: 'https://www.crunchbase.com/organization/oracle'
           - item:
             name: Galactic Fog Gestalt
             homepage_url: 'http://www.galacticfog.com/product/'

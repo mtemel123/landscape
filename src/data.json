@@ -24387,61 +24387,6 @@
     "id": "nano-lambda"
   },
   {
-    "name": "Oracle Application Container Cloud",
-    "homepage_url": "https://cloud.oracle.com/acc",
-    "logo": "./hosted_logos/oracle-applicationcontainercloud.svg",
-    "crunchbase": "https://www.crunchbase.com/organization/oracle",
-    "cncf_membership_data": {
-      "cncf_member": "platinum"
-    },
-    "yahoo_finance_data": {
-      "market_cap": 187990360064,
-      "effective_ticker": "ORCL"
-    },
-    "image_data": {
-      "fileName": "oracle-application-container-cloud.svg",
-      "hash": "gL2t/CjRiYMGXPoLTow4LecVEAE90NwEW1Y7qcGk7vc="
-    },
-    "cncfMember": "platinum",
-    "cncfRelation": "member",
-    "firstCommitLink": null,
-    "latestCommitLink": null,
-    "license": "NotOpenSource",
-    "headquarters": "Redwood Shores, California",
-    "twitter": "http://twitter.com/Oracle",
-    "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
-      "original": "2018-04-16T23:29:47.000Z"
-    },
-    "description": "Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.",
-    "organization": "Oracle",
-    "crunchbaseData": {
-      "name": "Oracle",
-      "description": "Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.",
-      "homepage": "http://oracle.com",
-      "city": "Redwood Shores",
-      "region": "California",
-      "country": "United States",
-      "twitter": "http://twitter.com/Oracle",
-      "linkedin": "http://www.linkedin.com/company/1028",
-      "ticker": "ORCL",
-      "kind": "market_cap",
-      "numEmployeesMin": 10001,
-      "numEmployeesMax": 1000000
-    },
-    "path": "Serverless / Hosted Platforms",
-    "landscape": "Serverless / Hosted Platforms",
-    "category": "Serverless",
-    "amountKind": "market_cap",
-    "amount": 187990360064,
-    "oss": false,
-    "href": "/logos/oracle-application-container-cloud.svg",
-    "bestPracticeBadgeId": false,
-    "bestPracticePercentage": null,
-    "id": "oracle-application-container-cloud"
-  },
-  {
     "name": "PubNub Functions",
     "homepage_url": "https://www.pubnub.com/products/functions/",
     "logo": "https://www.pubnub.com/wp-content/uploads/2017/08/functions-header-logo.svg",
@@ -25060,7 +25005,7 @@
     "repo_url": "https://github.com/fnproject/fn",
     "logo": "./hosted_logos/fn.svg",
     "twitter": "https://twitter.com/fnproj",
-    "crunchbase": "https://www.crunchbase.com/organization/fn",
+    "crunchbase": "https://www.crunchbase.com/organization/oracle",
     "github_data": {
       "stars": 2626,
       "license": "Apache-2.0",
@@ -25077,14 +25022,18 @@
       "start_date": "2012-12-31T03:21:31Z"
     },
     "cncf_membership_data": {
-      "cncf_member": false
+      "cncf_member": "platinum"
+    },
+    "yahoo_finance_data": {
+      "market_cap": 187990360064,
+      "effective_ticker": "ORCL"
     },
     "image_data": {
       "fileName": "fn.svg",
       "hash": "OhaCFyVR5a3g9hk3Gj61VLPJIm1+4P1d/aL+C2qjBPI="
     },
-    "cncfMember": false,
-    "cncfRelation": false,
+    "cncfMember": "platinum",
+    "cncfRelation": "member",
     "firstCommitDate": "2012-12-31T03:21:31Z",
     "firstCommitLink": "https://github.com/fnproject/fn/commit/92623001b5f63a8ecee77525dc0b853f8ba5fe79",
     "latestCommitDate": {
@@ -25110,22 +25059,26 @@
       "original": "2018-03-17T06:56:56.000Z"
     },
     "description": "The container native, cloud agnostic serverless platform.",
-    "organization": "Fn",
+    "organization": "Oracle",
     "crunchbaseData": {
-      "name": "Fn",
-      "description": "Platforms",
-      "homepage": "http://fnproject.io/",
+      "name": "Oracle",
+      "description": "Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.",
+      "homepage": "http://oracle.com",
       "city": "Redwood Shores",
       "region": "California",
       "country": "United States",
-      "twitter": "https://twitter.com/fnproj",
-      "linkedin": null,
-      "numEmployeesMin": null,
-      "numEmployeesMax": null
+      "twitter": "http://twitter.com/Oracle",
+      "linkedin": "http://www.linkedin.com/company/1028",
+      "ticker": "ORCL",
+      "kind": "market_cap",
+      "numEmployeesMin": 10001,
+      "numEmployeesMax": 1000000
     },
     "path": "Serverless / Installable Platforms",
     "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
+    "amountKind": "market_cap",
+    "amount": 187990360064,
     "oss": true,
     "href": "/logos/fn.svg",
     "bestPracticeBadgeId": false,
