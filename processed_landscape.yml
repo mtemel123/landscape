@@ -2770,7 +2770,7 @@ landscape:
               cncf_member: silver
             image_data:
               fileName: minio.svg
-              hash: Gq18P99xLTEoFLpxnxRO9G0WCdh36ael7gxM8zl/zsk=
+              hash: yH/daTCsbm5gyZJUTzD3i1aiauXIYBhf88uiuomICY0=
             best_practice_data:
               badge: 1244
               percentage: 53
@@ -5457,7 +5457,7 @@ landscape:
               effective_ticker: NFLX
             image_data:
               fileName: hystrix.svg
-              hash: wAc038GQhjVUqqSloy9QtJtgtKfaW6WT8Yw8tkpPV2Y=
+              hash: +AitCB7/Sx8HHbeRPEmnpqsvxWkQJRLKc4gxx9JbeVY=
             best_practice_data:
               badge: false
               percentage: null
@@ -6038,7 +6038,7 @@ landscape:
               cncf_member: false
             image_data:
               fileName: carbon-data.svg
-              hash: 8Uwg7ZgE31o1MBSil4uvydVCH33yyC8KEcLGMtcH0cU=
+              hash: +RHq/PnDcbXqjGMKmpU863AP3JpJVnYf/OHljZKtZGM=
             best_practice_data:
               badge: false
               percentage: null
@@ -13387,7 +13387,7 @@ landscape:
               cncf_member: false
             image_data:
               fileName: std-lib.svg
-              hash: 5kFKI4HE5FnTmja1aWstjnryjRfZ9GStPgoH4YojBPs=
+              hash: IZqU5Z+wZq46QqsR5ihjIZ5ai5JKQnXdWTxKuKnaPrc=
             best_practice_data:
               badge: false
               percentage: null
