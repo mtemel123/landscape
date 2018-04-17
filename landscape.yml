@@ -2642,7 +2642,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/spotinst'
           - item:
             name: Syncano
-            homepage_url: 'https://syncano.io/#/'
+            homepage_url: 'https://syncano.io/'
             logo: ./hosted_logos/syncano.svg
             twitter: 'https://twitter.com/Syncano'
             crunchbase: 'https://www.crunchbase.com/organization/syncano'
@@ -2700,7 +2700,7 @@ landscape:
             repo_url: 'https://github.com/fnproject/fn'
             logo: ./hosted_logos/fn.svg
             twitter: 'https://twitter.com/fnproj'
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
+            crunchbase: 'https://www.crunchbase.com/organization/fn'
           - item:
             name: Galactic Fog Gestalt
             homepage_url: 'http://www.galacticfog.com/product/'

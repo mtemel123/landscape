@@ -4182,8 +4182,8 @@
     },
     "latestCommitLink": "https://github.com/hashicorp/vault/commit/54fdaa8c825f766e71a34eeebd581319f9194694",
     "releaseDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T15:24:14Z"
     },
     "releaseLink": "https://github.com/hashicorp/vault/releases",
@@ -4268,8 +4268,8 @@
     },
     "latestCommitLink": "https://github.com/ceph/ceph/commit/60e8a63fdc21654d7f199a67f3f410a9e33c8134",
     "releaseDate": {
-      "text": "last week",
-      "value": "980",
+      "text": "3 weeks ago",
+      "value": "970",
       "original": "2018-04-03T15:07:30Z"
     },
     "releaseLink": "https://github.com/ceph/ceph/releases",
@@ -8723,8 +8723,8 @@
     "license": "Apache-2.0",
     "headquarters": "Los Gatos, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T17:10:51.000Z"
     },
     "description": "AWS Service registry for resilient mid-tier load balancing and failover.",
@@ -9812,8 +9812,8 @@
     "license": "Apache-2.0",
     "headquarters": "Los Gatos, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T17:10:51.000Z"
     },
     "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",
@@ -10121,8 +10121,8 @@
     "license": "Apache-2.0",
     "headquarters": "Los Gatos, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T17:10:51.000Z"
     },
     "description": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",
@@ -10191,8 +10191,8 @@
     },
     "latestCommitLink": "https://github.com/nginx/nginx/commit/53eae18826d13cb4c7db6680029cac53bfb2a18a",
     "releaseDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T14:11:09Z"
     },
     "releaseLink": "https://github.com/nginx/nginx/releases",
@@ -10425,8 +10425,8 @@
     "license": "Apache-2.0",
     "headquarters": "Los Gatos, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T17:10:51.000Z"
     },
     "description": "Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.",
@@ -17035,8 +17035,8 @@
     "license": "Apache-2.0",
     "headquarters": "Los Gatos, California",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T14:59:36.000Z"
     },
     "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
@@ -17085,8 +17085,8 @@
     "license": "NotOpenSource",
     "headquarters": "Prague, Czech Republic",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T13:27:05.000Z"
     },
     "description": "The World's Leading Vendor of Professional Development Tools. Creators of IntelliJIDEA, ReSharper, RubyMine, TeamCity, and much more.",
@@ -21180,8 +21180,8 @@
     "headquarters": "San Francisco, California",
     "twitter": "https://twitter.com/supergiantio",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T16:04:02.000Z"
     },
     "organization": "Supergiant",
@@ -24488,7 +24488,7 @@
   },
   {
     "name": "Syncano",
-    "homepage_url": "https://syncano.io/#/",
+    "homepage_url": "https://syncano.io/",
     "logo": "./hosted_logos/syncano.svg",
     "twitter": "https://twitter.com/Syncano",
     "crunchbase": "https://www.crunchbase.com/organization/syncano",
@@ -25005,7 +25005,7 @@
     "repo_url": "https://github.com/fnproject/fn",
     "logo": "./hosted_logos/fn.svg",
     "twitter": "https://twitter.com/fnproj",
-    "crunchbase": "https://www.crunchbase.com/organization/oracle",
+    "crunchbase": "https://www.crunchbase.com/organization/fn",
     "github_data": {
       "stars": 2626,
       "license": "Apache-2.0",
@@ -25022,18 +25022,14 @@
       "start_date": "2012-12-31T03:21:31Z"
     },
     "cncf_membership_data": {
-      "cncf_member": "platinum"
-    },
-    "yahoo_finance_data": {
-      "market_cap": 187990360064,
-      "effective_ticker": "ORCL"
+      "cncf_member": false
     },
     "image_data": {
       "fileName": "fn.svg",
       "hash": "OhaCFyVR5a3g9hk3Gj61VLPJIm1+4P1d/aL+C2qjBPI="
     },
-    "cncfMember": "platinum",
-    "cncfRelation": "member",
+    "cncfMember": false,
+    "cncfRelation": false,
     "firstCommitDate": "2012-12-31T03:21:31Z",
     "firstCommitLink": "https://github.com/fnproject/fn/commit/92623001b5f63a8ecee77525dc0b853f8ba5fe79",
     "latestCommitDate": {
@@ -25059,26 +25055,22 @@
       "original": "2018-03-17T06:56:56.000Z"
     },
     "description": "The container native, cloud agnostic serverless platform.",
-    "organization": "Oracle",
+    "organization": "Fn",
     "crunchbaseData": {
-      "name": "Oracle",
-      "description": "Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.",
-      "homepage": "http://oracle.com",
+      "name": "Fn",
+      "description": "Platforms",
+      "homepage": "http://fnproject.io/",
       "city": "Redwood Shores",
       "region": "California",
       "country": "United States",
-      "twitter": "http://twitter.com/Oracle",
-      "linkedin": "http://www.linkedin.com/company/1028",
-      "ticker": "ORCL",
-      "kind": "market_cap",
-      "numEmployeesMin": 10001,
-      "numEmployeesMax": 1000000
+      "twitter": "https://twitter.com/fnproj",
+      "linkedin": null,
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
     },
     "path": "Serverless / Installable Platforms",
     "landscape": "Serverless / Installable Platforms",
     "category": "Serverless",
-    "amountKind": "market_cap",
-    "amount": 187990360064,
     "oss": true,
     "href": "/logos/fn.svg",
     "bestPracticeBadgeId": false,
@@ -30464,8 +30456,8 @@
     "headquarters": "San Francisco, California",
     "twitter": "https://twitter.com/supergiantio",
     "latestTweetDate": {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2018-04-10T16:04:02.000Z"
     },
     "organization": "Supergiant",

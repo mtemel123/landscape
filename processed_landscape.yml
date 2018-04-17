@@ -13660,7 +13660,7 @@ landscape:
               latest_tweet_date: 2018-04-12T11:36:57.000Z
           - item:
             name: Syncano
-            homepage_url: 'https://syncano.io/#/'
+            homepage_url: 'https://syncano.io/'
             logo: ./hosted_logos/syncano.svg
             twitter: 'https://twitter.com/Syncano'
             crunchbase: 'https://www.crunchbase.com/organization/syncano'
@@ -13946,20 +13946,18 @@ landscape:
             repo_url: 'https://github.com/fnproject/fn'
             logo: ./hosted_logos/fn.svg
             twitter: 'https://twitter.com/fnproj'
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
+            crunchbase: 'https://www.crunchbase.com/organization/fn'
             crunchbase_data:
-              name: Oracle
-              description: Oracle is a computer technology corporation developing and marketing computer hardware systems and enterprise software products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://oracle.com'
+              name: Fn
+              description: Platforms
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://fnproject.io/'
               city: Redwood Shores
               region: California
               country: United States
-              twitter: 'http://twitter.com/Oracle'
-              linkedin: 'http://www.linkedin.com/company/1028'
-              ticker: ORCL
-              kind: market_cap
+              twitter: 'https://twitter.com/fnproj'
+              linkedin: null
             github_data:
               stars: 2626
               license: Apache-2.0
@@ -13974,10 +13972,7 @@ landscape:
               start_commit_link: /fnproject/fn/commit/92623001b5f63a8ecee77525dc0b853f8ba5fe79
               start_date: '2012-12-31T03:21:31Z'
             cncf_membership_data:
-              cncf_member: platinum
-            yahoo_finance_data:
-              market_cap: 187990360064
-              effective_ticker: ORCL
+              cncf_member: false
             image_data:
               fileName: fn.svg
               hash: OhaCFyVR5a3g9hk3Gj61VLPJIm1+4P1d/aL+C2qjBPI=
